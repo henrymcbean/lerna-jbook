@@ -1,6 +1,6 @@
 {
   "name": "jsnote-hmb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -25,5 +25,6 @@
     "commander": "^8.0.0",
     "esbuild": "0.8.2",
     "typescript": "^4.3.5"
-  }
+  },
+  "gitHead": "20ad2eaf685782e154986e94900146deee2a70cc"
 }

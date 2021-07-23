@@ -1,6 +1,6 @@
 {
   "name": "@jsnote-hmb/local-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -27,5 +27,6 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^2.0.1"
-  }
+  },
+  "gitHead": "20ad2eaf685782e154986e94900146deee2a70cc"
 }
