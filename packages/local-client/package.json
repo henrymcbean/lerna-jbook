@@ -1,6 +1,6 @@
 {
   "name": "@jsnote-hmb/local-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publishConfig": {
     "access": "public"
   },
@@ -67,5 +67,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "20ad2eaf685782e154986e94900146deee2a70cc"
+  "gitHead": "527b1c4e24fe9fcadd3ce5145c7bed5a0401529e"
 }
